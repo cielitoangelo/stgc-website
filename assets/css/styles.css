@@ -5,7 +5,7 @@
 #about-main .container-fluid {
   height: 50em;
   text-shadow: 3px 3px 5px rgb(0,0,0);
-  background-image: url("assets/img/stgc-aboutus-cover.webp");
+  background-image: url("../img/stgc-aboutus-cover.webp");
   background-size: cover;
   background-position: center;
 }
@@ -51,7 +51,7 @@
 
 .cover {
   height: 50em;
-  background-image: url("assets/img/stgc-home-cover.webp");
+  background-image: url("../img/stgc-home-cover.webp");
   background-size: cover;
   background-position: center;
 }
